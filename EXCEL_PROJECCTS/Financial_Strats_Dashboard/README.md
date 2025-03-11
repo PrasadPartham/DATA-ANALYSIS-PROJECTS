@@ -4,7 +4,7 @@ This repository contains a comprehensive financial statistics dashboard system c
 
 ## Dashboards Overview
 
-![image](https://github.com/PrasadPartham/DATA-ANALYSIS-PROJECTS/blob/main/EXCEL_PROJECCTS/Financial_Strats_Dashboard/p1)
+![image](https://github.com/PrasadPartham/DATA-ANALYSIS-PROJECTS/blob/main/EXCEL_PROJECCTS/Financial_Strats_Dashboard/p1.png)
 
 ### Dashboard 1: Income Sources Analysis
 
@@ -20,7 +20,7 @@ This repository contains a comprehensive financial statistics dashboard system c
 - **Yearly Slicer Control**: All values and charts update based on the selected year.
 
 
-![image](https://github.com/PrasadPartham/DATA-ANALYSIS-PROJECTS/blob/main/EXCEL_PROJECCTS/Financial_Strats_Dashboard/p2)
+![image](https://github.com/PrasadPartham/DATA-ANALYSIS-PROJECTS/blob/main/EXCEL_PROJECCTS/Financial_Strats_Dashboard/p2.png)
 
 ### Dashboard 2: Profits by Countries
 
@@ -31,7 +31,7 @@ This repository contains a comprehensive financial statistics dashboard system c
 - **Yearly Slicer Control**: Fully controlled by the yearly slicer for dynamic updates.
 
 
-![image](https://github.com/PrasadPartham/DATA-ANALYSIS-PROJECTS/blob/main/EXCEL_PROJECCTS/Financial_Strats_Dashboard/p3)
+![image](https://github.com/PrasadPartham/DATA-ANALYSIS-PROJECTS/blob/main/EXCEL_PROJECCTS/Financial_Strats_Dashboard/p3.png)
 
 ### Dashboard 3: Sales Process Status
 
@@ -41,7 +41,7 @@ This repository contains a comprehensive financial statistics dashboard system c
 - **Refunded Orders**: Bar chart displaying the percentage of refunded orders.
 - **Yearly Slicer Control**: Enables filtering and updating based on the selected year.
 
-![image](https://github.com/PrasadPartham/DATA-ANALYSIS-PROJECTS/blob/main/EXCEL_PROJECCTS/Financial_Strats_Dashboard/p4)
+![image](https://github.com/PrasadPartham/DATA-ANALYSIS-PROJECTS/blob/main/EXCEL_PROJECCTS/Financial_Strats_Dashboard/p4.png)
 
 ### Dashboard 4: Project Workflow Report
 
