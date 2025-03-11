@@ -1,6 +1,6 @@
 Project: Road Safety Accident Analysis Dashboard (UK - 2022 & 2023)
 
-![image]()
+![image](https://github.com/PrasadPartham/DATA-ANALYSIS-PROJECTS/blob/main/EXCEL_PROJECCTS/Road_Accidents_Dashboard/pic1.png)
 
 I developed an interactive Excel dashboard to analyze and compare road accident data from the UK for the years 2022 and 2023. The dashboard provides a comprehensive overview of accident statistics, focusing on key factors such as vehicle types, lighting conditions, road conditions, accident severity, and location (rural vs. urban). It allows users to gain actionable insights from month-wise and year-wise comparisons, including an in-depth look at the differences between 2022 and 2023. The dynamic nature of the dashboard enables users to interactively explore trends, helping identify risk patterns and safety issues.
 
