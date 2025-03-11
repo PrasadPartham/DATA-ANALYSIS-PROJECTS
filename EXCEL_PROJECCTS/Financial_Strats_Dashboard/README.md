@@ -4,7 +4,7 @@ This repository contains a comprehensive financial statistics dashboard system c
 
 ## Dashboards Overview
 
-![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/79bd1ee7-a34d-4cfa-af0c-560d73b9f440)
+![image](https://github.com/PrasadPartham/DATA-ANALYSIS-PROJECTS/blob/main/EXCEL_PROJECCTS/Financial_Strats_Dashboard/Screenshot%202024-05-11%20232436.png)
 
 ### Dashboard 1: Income Sources Analysis
 
@@ -20,7 +20,7 @@ This repository contains a comprehensive financial statistics dashboard system c
 - **Yearly Slicer Control**: All values and charts update based on the selected year.
 
 
-![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/ae687abf-e25b-40ee-84cd-6d23559604d2)
+![image](https://github.com/PrasadPartham/DATA-ANALYSIS-PROJECTS/blob/main/EXCEL_PROJECCTS/Financial_Strats_Dashboard/Screenshot%202024-06-18%20120500.png)
 
 ### Dashboard 2: Profits by Countries
 
@@ -31,7 +31,7 @@ This repository contains a comprehensive financial statistics dashboard system c
 - **Yearly Slicer Control**: Fully controlled by the yearly slicer for dynamic updates.
 
 
-![image](https://github.com/AvishiJ/Financial-Statistics-Dashboard/assets/93474251/684a91b9-c341-4acc-8a4e-fbd592bbb21b)
+![image](https://github.com/PrasadPartham/DATA-ANALYSIS-PROJECTS/blob/main/EXCEL_PROJECCTS/Financial_Strats_Dashboard/Screenshot%202024-06-20%20213511.png)
 
 ### Dashboard 3: Sales Process Status
 
