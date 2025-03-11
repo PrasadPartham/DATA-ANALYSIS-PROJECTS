@@ -4,7 +4,7 @@ Project: Road Safety Accident Analysis Dashboard (UK - 2022 & 2023)
 
 I developed an interactive Excel dashboard to analyze and compare road accident data from the UK for the years 2022 and 2023. The dashboard provides a comprehensive overview of accident statistics, focusing on key factors such as vehicle types, lighting conditions, road conditions, accident severity, and location (rural vs. urban). It allows users to gain actionable insights from month-wise and year-wise comparisons, including an in-depth look at the differences between 2022 and 2023. The dynamic nature of the dashboard enables users to interactively explore trends, helping identify risk patterns and safety issues.
 
---Key Steps and Features:
+-Key Steps and Features:
 -Data Collection and Cleaning:
 
 Gathered official UK road accident data for 2022 and 2023 from public government sources.
@@ -26,7 +26,7 @@ Incorporated slicers and drop-down menus to provide easy filtering options for u
 -Insights on Vehicle Types:
 
 Analyzed accident data based on the types of vehicles involved (e.g., cars, motorcycles, trucks) and their contribution to overall accident statistics.
-Identified which vehicle types had higher accident rates and were more frequently involved in severe accidents (fatal or serious).
+Identified which vehicle types had higher accident rates and were more frequently involved in severe accidents (fatal or serious.
 -Lighting and Road Conditions Insights:
 
 Compared accident frequency and severity based on lighting conditions (day vs. night).
